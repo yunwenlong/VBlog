@@ -107,7 +107,3 @@ MIT
 **欢迎小伙伴们star、fork。**  
 
 ## 其他
-
-关注公众号**江南一点雨**，专注于 Spring Boot+微服务，定期视频教程分享，关注后回复 Java ，领取松哥为你精心准备的 Java 干货！
-
-![公众号二维码](http://www.javaboy.org/images/sb/javaboy.jpg)  
